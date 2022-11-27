@@ -25,7 +25,7 @@ async function main () {
   const value = memory.readMemory(process.coreProcess.handle, process.ModuleBase + "0x1026", "int")
   console.log("value: " + value);
   console.log("jne => jmp\nWriteMemory")
-  memory.writeMemory(process.coreProcess.handle, process.ModuleBase + "0x1026", 1, "int");
+  memory.writeMemory(process.coreProcess.handle, process.ModuleBase + "0x1026", 6952427, "int");
   console.log("value: " + value);
   console.log("Yes! success memory edit!")
 }
