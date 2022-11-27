@@ -7,3 +7,6 @@ MemoryJS를 이용해서 CodeEngn의 Basic 1번 문제를 크랙(?) 해봤습니
 1. `디버거`로 비교(cmp) 후 if문(je, jne 등등)이 쓰여있는 곳을 찾습니다.
 2. `임의`로 je 부분을 수정해봅니다. (저는 jmp로 함)
 3. 수정 후 바뀐 데이터를 따로 메모해놓고 코딩을 해봤슴 
+
+# image
+![](https://user-images.githubusercontent.com/84012697/204131010-0e32a2ca-1465-4636-a431-50c2a8469316.PNG)
